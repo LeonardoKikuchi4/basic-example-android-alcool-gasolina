@@ -1,4 +1,4 @@
-package br.com.unipar.alcoolougasolina;
+package br.com.unipar.investimentos;
 
 import org.junit.Test;
 
