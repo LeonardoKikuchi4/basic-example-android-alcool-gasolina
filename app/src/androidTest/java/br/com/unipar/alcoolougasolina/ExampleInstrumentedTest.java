@@ -1,4 +1,4 @@
-package br.com.unipar.investimentos;
+package br.com.unipar.alcoolougasolina;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("br.com.unipar.investimentos", appContext.getPackageName());
+        assertEquals("br.com.unipar.alcoolougasolina", appContext.getPackageName());
     }
 }
